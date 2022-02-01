@@ -18,7 +18,8 @@ name: Test blog
 title: Just the Docs
 description: A Jekyll theme for documentation
 baseurl: "/TESTBlog" # the subpath of your site, e.g. /blog
-url: https://rick-cee-137.github.io/TESTBlog/ # the base hostname & protocol for your site, e.g. http://example.com
+url: https://rick-cee-137.github.io/
+# the base hostname & protocol for your site, e.g. http://example.com
 
 
 permalink: pretty
